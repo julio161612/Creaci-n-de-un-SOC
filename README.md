@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Creacion de un SOC
 Laboratorio de seguridad informática integrando Wazuh, TheHive, Cortex y MISP para gestión de incidentes
 
@@ -52,3 +53,8 @@ Wazuh detecta alertas → TheHive gestiona incidentes → Cortex analiza automá
 - [LinkedIn](https://www.linkedin.com/in/julio-lópez-cotán-1032aa348)
 - Correo: juliolopezcotan6@gmail.com
 - Portafolio: [PORTAFOLIO SOC](https://julio161612.github.io/Creaci-n-de-un-SOC/)
+=======
+### Dashboard principal
+![Dashboard TheHive](capturas/dashboard/dashboard1.png)
+![Vista general de incidentes](capturas/dashboard/dashboard2.png)
+>>>>>>> 500aef8 (Primer commit - proyecto SOC Wazuh + TheHive + Cortex + MISP)
