@@ -3,6 +3,18 @@ Laboratorio de seguridad informática integrando Wazuh, TheHive, Cortex y MISP p
 
 <img width="758" height="664" alt="Captura desde 2025-08-31 18-02-30" src="https://github.com/user-attachments/assets/2bac85c6-8303-4ead-984c-df82c638a4b5" />
 
+El diagrama muestra cómo los distintos elementos del SOC interactúan:
+
+- **PCs / Usuarios**: Generan logs y alertas de seguridad.
+- **Wazuh Agent**: Recopila logs y los envía al servidor Wazuh.
+- **Wazuh Server**: Centraliza alertas y envía incidentes a TheHive.
+- **TheHive**: Gestiona incidentes y asigna tareas a analistas.
+- **Cortex**: Analiza automáticamente incidentes o archivos.
+- **MISP**: Proporciona inteligencia de amenazas para enriquecer los análisis.
+
+
+
+
 <img width="927" height="963" alt="26, ya estan los casos en the hive" src="https://github.com/user-attachments/assets/9908f84a-2b93-4e9b-a3b0-9f5590c56057" />
 
 
