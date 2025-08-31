@@ -1,4 +1,4 @@
-# Creacion-de-un-SOC
+# Creacion de un SOC
 Laboratorio de seguridad informática integrando Wazuh, TheHive, Cortex y MISP para gestión de incidentes
 <img width="1854" height="963" alt="2, mis agentes en wazuh" src="https://github.com/user-attachments/assets/22cc799e-8ff6-4cf3-a923-c86e67e3690a" />
 <img width="927" height="963" alt="26, ya estan los casos en the hive" src="https://github.com/user-attachments/assets/9908f84a-2b93-4e9b-a3b0-9f5590c56057" />
