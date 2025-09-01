@@ -1,10 +1,10 @@
-- ¿Qué es Wazuh?
+**- ¿Qué es Wazuh?**
 
 Es un SIEM (Security Information and Event Management) y HIDS (Host-based Intrusion Detection System).
 Permite recopilar y analizar eventos de seguridad en tiempo real.
 Funciona en Linux, Windows, macOS y contenedores.
 
-- ¿Para qué sirve?
+**- ¿Para qué sirve?**
 
 Detección de intrusiones
 Monitorear logs y procesos en busca de comportamientos maliciosos.
@@ -19,7 +19,7 @@ Respuesta automatizada
 
 
 
-# Integración de Wazuh en Kali Linux
+**# Integración de Wazuh en Kali Linux**
 
 ## 1. Instalar dependencias
 ```bash
@@ -50,4 +50,4 @@ Copiar código
 sudo systemctl enable wazuh-agent
 sudo systemctl start wazuh-agent
 
-En este caso yo lo hice en una máquina Kali Linux, si no tienes tanto espacio en tu ordenador, para crear una maquina virtual, tmabien existe la opcion de instalar una .ova, no te olvides de actualizarla e instalarle servicios que no vienen activos como python.
+**En este caso yo lo hice en una máquina Kali Linux, si no tienes tanto espacio en tu ordenador, para crear una maquina virtual, tmabien existe la opcion de instalar una .ova, no te olvides de actualizarla e instalarle servicios que no vienen activos como python.**
