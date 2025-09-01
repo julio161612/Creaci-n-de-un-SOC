@@ -9,5 +9,10 @@ Haz clic en un tutorial para ver las capturas correspondientes:
 
 ## Capturas
 
-Todas las capturas están organizadas en subcarpetas: CORTEX, MISP, WAZUH, Flujo y THE_HIVE.  
-Puedes explorar `docs/capturas/` directamente si quieres verlas.
+Todas las capturas están organizadas en subcarpetas. Haz clic para verlas:
+
+- [CORTEX](capturas/CORTEX/)
+- [MISP](capturas/MISP/)
+- [WAZUH](capturas/WAZUH/)
+- [Flujo](capturas/flujo/)
+- [THE_HIVE](capturas/THE_HIVE/)
