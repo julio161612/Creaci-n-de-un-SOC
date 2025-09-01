@@ -22,12 +22,9 @@ Respuesta automatizada
 **# Integración de Wazuh en Kali Linux**
 
 ## 1. Instalar dependencias
-```bash
 sudo apt update && sudo apt upgrade -y
 sudo apt install curl apt-transport-https lsb-release gnupg2 -y
 2. Instalar el agente de Wazuh
-bash
-Copiar código
 curl -s https://packages.wazuh.com/key/GPG-KEY-WAZUH | sudo apt-key add -
 echo "deb https://packages.wazuh.com/4.x/apt stable main" | sudo tee /etc/apt/sources.list.d/wazuh.list
 sudo apt update
@@ -45,8 +42,6 @@ Copiar código
   </server>
 </client>
 4. Iniciar el agente
-bash
-Copiar código
 sudo systemctl enable wazuh-agent
 sudo systemctl start wazuh-agent
 
