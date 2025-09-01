@@ -62,5 +62,5 @@ Wazuh detecta alertas → TheHive gestiona incidentes → Cortex analiza automá
 
 - [LinkedIn](https://www.linkedin.com/in/julio-lópez-cotán-1032aa348)
 - Correo: juliolopezcotan6@gmail.com
-- Portafolio: [PORTAFOLIO SOC](https://julio161612.github.io/Creaci-n-de-un-SOC/)
+- Portafolio: [PORTAFOLIO SOC](https://julio161612.github.io/Creacion-de-un-SOC/)
 
