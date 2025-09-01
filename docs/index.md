@@ -19,7 +19,7 @@ Laboratorio de seguridad informática integrando Wazuh, TheHive, Cortex y MISP p
 
 ## Diagrama SOC
 
-![Diagrama SOC](capturas/dashboard/'Captura desde 2025-08-31 18-02-30.png')
+![Diagrama SOC](capturas/dashboard/Captura%20desde%202025-08-31%2018-02-30.png)
 
 El diagrama muestra cómo los distintos elementos del SOC interactúan:
 
